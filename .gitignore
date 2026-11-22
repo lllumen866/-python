@@ -1,5 +1,7 @@
+﻿.venv/
+venv/
 __pycache__/
 *.pyc
-cython_part/
 *.dat
-.vscode/
+*.png
+.DS_Store
