@@ -1,0 +1,31 @@
+order_id,client,city,order_date,category,product,qty,price,discount,status,delivery_days,manager,promo_code
+1," Ivan Petrov "," Moscow ","2024-01-05"," Electronics "," laptop ",2,75000.0,0.10,paid,3,Ivan Sidorov,SAVE10
+2,"ivan petrov","moscow","2024-01-05","electronics","LAPTOP",1,72000.0,0.05,shipped,5,Ivan Sidorov,NO_PROMO
+3,"Anna Smirnova","Saint Petersburg","2024-01-07","Home"," chair ",3,4500.0,0.0,new,7,Petr Kuznetsov,WELCOME
+4,"Pavel Ivanov","Kazan","2024-01-10","Electronics","monitor",1,18000.0,0.15,paid,4,Anna Volkova,SAVE10
+5,"Maria Sokolova","Novosibirsk","2024-01-12","Office","desk",2,12000.0,0.20,shipped,6,Olga Morozova,NO_PROMO
+6,"Sergey Volkov","Yekaterinburg","2024-01-15","Electronics","keyboard",4,2500.0,0.0,cancelled,0,Dmitry Orlov,NO_PROMO
+7,"Elena Petrova","Moscow","2024-01-18","Home","sofa",1,55000.0,0.25,paid,10,Ivan Sidorov,VIP25
+8,"Dmitry Smirnov","Saint Petersburg","2024-01-20","Office","printer",1,15000.0,0.10,returned,8,Petr Kuznetsov,NO_PROMO
+9,"Olga Kuznetsova","Kazan","2024-01-22","Electronics","tablet",2,30000.0,0.05,shipped,3,Anna Volkova,SAVE10
+10,"Anna Smirnova","Saint Petersburg","2024-02-14","Electronics","phone",1,50000.0,0.10,paid,2,Petr Kuznetsov,PROMO5
+11," anna smirnova "," saint petersburg ","2024-02-14"," electronics "," Phone ",2,48000.0,0.0,new,4,Petr Kuznetsov,NO_PROMO
+12,"Igor Fedorov","Moscow","2024-02-16","Home","lamp",5,1500.0,0.0,shipped,5,Ivan Sidorov,NO_PROMO
+13,"Natalia Morozova","Novosibirsk","2024-02-20","Office","notebook",10,250.0,0.10,paid,2,Olga Morozova,SAVE10
+14,"Alexey Popov","Yekaterinburg","2024-02-22","Electronics","camera",1,65000.0,0.30,paid,3,Dmitry Orlov,VIP25
+15,"Tatiana Lebedeva","Kazan","2024-02-25","Home","table",2,9000.0,0.15,shipped,9,Anna Volkova,NO_PROMO
+16,"Vladimir Kozlov","Moscow","2024-03-01","Office","chair",4,4200.0,0.05,new,6,Ivan Sidorov,WELCOME
+17,"Svetlana Novikova","Saint Petersburg","2024-03-03","Electronics","headphones",3,8000.0,0.20,paid,4,Petr Kuznetsov,SAVE10
+18,"Andrey Egorov","Novosibirsk","2024-03-05","Home","mattress",1,35000.0,0.10,cancelled,0,Olga Morozova,NO_PROMO
+19,"Yulia Pavlova","Yekaterinburg","2024-03-08","Office","pen set",20,300.0,0.0,shipped,7,Dmitry Orlov,NO_PROMO
+20,"Maxim Semenov","Kazan","2024-03-10","Electronics","smartwatch",2,22000.0,0.15,paid,3,Anna Volkova,PROMO5
+21,"Ksenia Vinogradova","Moscow","2024-03-12","Home","curtains",3,3500.0,0.10,returned,8,Ivan Sidorov,NO_PROMO
+22,"Roman Bogdanov","Saint Petersburg","2024-03-15","Office","cabinet",1,27000.0,0.20,shipped,5,Petr Kuznetsov,SAVE10
+23,"Alina Vorobyova","Novosibirsk","2024-03-18","Electronics","router",2,4500.0,0.0,new,4,Olga Morozova,NO_PROMO
+24,"Denis Frolov","Yekaterinburg","2024-03-20","Home","kitchen set",1,42000.0,0.25,paid,6,Dmitry Orlov,VIP25
+25,"Galina Belova","Kazan","2024-03-22","Office","projector",1,38000.0,0.10,shipped,2,Anna Volkova,NO_PROMO
+26,"Oleg Nikitin","Moscow","2024-03-25","Electronics","speaker",3,6000.0,0.05,paid,3,Ivan Sidorov,SAVE10
+27,"Veronika Zaitseva","Saint Petersburg","2024-03-27","Home","blanket",2,5000.0,0.0,new,9,Petr Kuznetsov,WELCOME
+28,"Anton Tarasov","Novosibirsk","2024-03-29","Office","whiteboard",1,12000.0,0.15,shipped,4,Olga Morozova,NO_PROMO
+29,"Kristina Komarova","Yekaterinburg","2024-04-01","Electronics","external drive",2,9000.0,0.20,paid,5,Dmitry Orlov,SAVE10
+30,"Viktor Osipov","Kazan","2024-04-03","Home","dining table",1,48000.0,0.10,shipped,7,Anna Volkova,NO_PROMO
